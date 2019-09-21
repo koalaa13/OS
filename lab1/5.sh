@@ -22,6 +22,5 @@ case "$number" in
 	links
 	;;
 4)
-	exit 0
 	;;
 esac
