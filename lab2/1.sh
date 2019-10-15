@@ -1,2 +1,4 @@
 #!/bin/bash
-grep -h -E -r '^ACPI' /var/log/* > errors.log
+grep 2> /dev/null -h -E -r -I 'ACPI' /var/log > errors.log
+cat grep 2> /dev/null -hErI '/^(.+[^\\]) /' /home/koalaa13/lab2/errors.log
+

@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /var/log/*.log | wc -l 
+find 2> /dev/null /var/log -name '*.log' -exec cat 2> /dev/null {} + | wc -l 
