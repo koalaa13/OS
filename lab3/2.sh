@@ -1,2 +1,2 @@
 #!/bin/bash
-ps aux | tail -n 1 | tr -s " " | cut -d " " -f 2
+ps aux --sort=start_time | tail -n1 | tr -s " " | cut -d " " -f 2 

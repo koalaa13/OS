@@ -1,205 +1,182 @@
-ProcessID=1 : Parent_ProcessID=0 : Average_Sleeping_Time=0.0461803
-ProcessID=2 : Parent_ProcessID=0 : Average_Sleeping_Time=0.066742
-Average_Sleeping_Children_of_ParentID=0 is 0.056461
+ProcessID=1 : Parent_ProcessID=0 : Average_Sleeping_Time=0.0460845
+ProcessID=2 : Parent_ProcessID=0 : Average_Sleeping_Time=0.0692238
+Average_Sleeping_Children_of_ParentID=0 is 0.057654
 
-ProcessID=1048 : Parent_ProcessID=1 : Average_Sleeping_Time=0.215032
-ProcessID=1057 : Parent_ProcessID=1 : Average_Sleeping_Time=0.145107
-ProcessID=1059 : Parent_ProcessID=1 : Average_Sleeping_Time=3.72074
-ProcessID=1061 : Parent_ProcessID=1 : Average_Sleeping_Time=3.73984
-ProcessID=1067 : Parent_ProcessID=1 : Average_Sleeping_Time=0.512552
-ProcessID=1082 : Parent_ProcessID=1 : Average_Sleeping_Time=0.452399
-ProcessID=1132 : Parent_ProcessID=1 : Average_Sleeping_Time=1.37685
-ProcessID=1209 : Parent_ProcessID=1 : Average_Sleeping_Time=0.126815
-ProcessID=1234 : Parent_ProcessID=1 : Average_Sleeping_Time=0.522182
-ProcessID=1250 : Parent_ProcessID=1 : Average_Sleeping_Time=0.156736
-ProcessID=1253 : Parent_ProcessID=1 : Average_Sleeping_Time=0.11532
-ProcessID=1354 : Parent_ProcessID=1 : Average_Sleeping_Time=0.265031
-ProcessID=1449 : Parent_ProcessID=1 : Average_Sleeping_Time=1.44416
-ProcessID=1463 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0937514
-ProcessID=1608 : Parent_ProcessID=1 : Average_Sleeping_Time=0.229089
-ProcessID=1633 : Parent_ProcessID=1 : Average_Sleeping_Time=0.167742
-ProcessID=1783 : Parent_ProcessID=1 : Average_Sleeping_Time=0.182868
-ProcessID=19047 : Parent_ProcessID=1 : Average_Sleeping_Time=0.103446
-ProcessID=19048 : Parent_ProcessID=1 : Average_Sleeping_Time=0.145803
-ProcessID=1980 : Parent_ProcessID=1 : Average_Sleeping_Time=0.151059
-ProcessID=344 : Parent_ProcessID=1 : Average_Sleeping_Time=0.861374
-ProcessID=367 : Parent_ProcessID=1 : Average_Sleeping_Time=0.551821
-ProcessID=789 : Parent_ProcessID=1 : Average_Sleeping_Time=0.366832
-ProcessID=790 : Parent_ProcessID=1 : Average_Sleeping_Time=0.378344
-ProcessID=893 : Parent_ProcessID=1 : Average_Sleeping_Time=0.265419
-ProcessID=896 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0525665
-ProcessID=897 : Parent_ProcessID=1 : Average_Sleeping_Time=0.149373
-ProcessID=898 : Parent_ProcessID=1 : Average_Sleeping_Time=0.507329
-ProcessID=899 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0959012
-ProcessID=900 : Parent_ProcessID=1 : Average_Sleeping_Time=0.377017
-ProcessID=913 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0902454
-ProcessID=914 : Parent_ProcessID=1 : Average_Sleeping_Time=0.692434
-ProcessID=921 : Parent_ProcessID=1 : Average_Sleeping_Time=0.309622
-ProcessID=923 : Parent_ProcessID=1 : Average_Sleeping_Time=0.121722
-ProcessID=924 : Parent_ProcessID=1 : Average_Sleeping_Time=0.156501
-ProcessID=927 : Parent_ProcessID=1 : Average_Sleeping_Time=0.17265
-ProcessID=931 : Parent_ProcessID=1 : Average_Sleeping_Time=0.166953
-ProcessID=933 : Parent_ProcessID=1 : Average_Sleeping_Time=0.276388
-ProcessID=935 : Parent_ProcessID=1 : Average_Sleeping_Time=1.17128
-ProcessID=942 : Parent_ProcessID=1 : Average_Sleeping_Time=0.2283
+ProcessID=1048 : Parent_ProcessID=1 : Average_Sleeping_Time=0.208447
+ProcessID=1057 : Parent_ProcessID=1 : Average_Sleeping_Time=0.145264
+ProcessID=1059 : Parent_ProcessID=1 : Average_Sleeping_Time=3.68368
+ProcessID=1061 : Parent_ProcessID=1 : Average_Sleeping_Time=3.71949
+ProcessID=1067 : Parent_ProcessID=1 : Average_Sleeping_Time=0.496089
+ProcessID=1082 : Parent_ProcessID=1 : Average_Sleeping_Time=0.442268
+ProcessID=1132 : Parent_ProcessID=1 : Average_Sleeping_Time=1.39528
+ProcessID=1209 : Parent_ProcessID=1 : Average_Sleeping_Time=0.123829
+ProcessID=1234 : Parent_ProcessID=1 : Average_Sleeping_Time=0.498208
+ProcessID=1250 : Parent_ProcessID=1 : Average_Sleeping_Time=0.156171
+ProcessID=1253 : Parent_ProcessID=1 : Average_Sleeping_Time=0.113582
+ProcessID=1354 : Parent_ProcessID=1 : Average_Sleeping_Time=0.252657
+ProcessID=1449 : Parent_ProcessID=1 : Average_Sleeping_Time=1.44767
+ProcessID=1463 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0916671
+ProcessID=1608 : Parent_ProcessID=1 : Average_Sleeping_Time=0.228561
+ProcessID=1633 : Parent_ProcessID=1 : Average_Sleeping_Time=0.167515
+ProcessID=1783 : Parent_ProcessID=1 : Average_Sleeping_Time=0.169247
+ProcessID=19047 : Parent_ProcessID=1 : Average_Sleeping_Time=0.114351
+ProcessID=19048 : Parent_ProcessID=1 : Average_Sleeping_Time=0.134372
+ProcessID=1980 : Parent_ProcessID=1 : Average_Sleeping_Time=0.149418
+ProcessID=344 : Parent_ProcessID=1 : Average_Sleeping_Time=0.856923
+ProcessID=367 : Parent_ProcessID=1 : Average_Sleeping_Time=0.536074
+ProcessID=789 : Parent_ProcessID=1 : Average_Sleeping_Time=0.361584
+ProcessID=790 : Parent_ProcessID=1 : Average_Sleeping_Time=0.385688
+ProcessID=893 : Parent_ProcessID=1 : Average_Sleeping_Time=0.254753
+ProcessID=896 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0523718
+ProcessID=897 : Parent_ProcessID=1 : Average_Sleeping_Time=0.148145
+ProcessID=898 : Parent_ProcessID=1 : Average_Sleeping_Time=0.50552
+ProcessID=899 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0927752
+ProcessID=900 : Parent_ProcessID=1 : Average_Sleeping_Time=0.38498
+ProcessID=913 : Parent_ProcessID=1 : Average_Sleeping_Time=0.0902603
+ProcessID=914 : Parent_ProcessID=1 : Average_Sleeping_Time=0.720414
+ProcessID=921 : Parent_ProcessID=1 : Average_Sleeping_Time=0.314332
+ProcessID=923 : Parent_ProcessID=1 : Average_Sleeping_Time=0.122403
+ProcessID=924 : Parent_ProcessID=1 : Average_Sleeping_Time=0.156698
+ProcessID=927 : Parent_ProcessID=1 : Average_Sleeping_Time=0.171874
+ProcessID=931 : Parent_ProcessID=1 : Average_Sleeping_Time=0.168742
+ProcessID=933 : Parent_ProcessID=1 : Average_Sleeping_Time=0.277823
+ProcessID=935 : Parent_ProcessID=1 : Average_Sleeping_Time=1.17338
+ProcessID=942 : Parent_ProcessID=1 : Average_Sleeping_Time=0.226156
 ProcessID=945 : Parent_ProcessID=1 : Average_Sleeping_Time=0.371453
-ProcessID=964 : Parent_ProcessID=1 : Average_Sleeping_Time=0.378867
-Average_Sleeping_Children_of_ParentID=1 is 0.514498
+ProcessID=964 : Parent_ProcessID=1 : Average_Sleeping_Time=0.367995
+Average_Sleeping_Children_of_ParentID=1 is 0.51139
 
-ProcessID=10118 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0447037
-ProcessID=10632 : Parent_ProcessID=2 : Average_Sleeping_Time=0.077033
-ProcessID=10 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0525867
-ProcessID=11 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0589247
-ProcessID=12861 : Parent_ProcessID=2 : Average_Sleeping_Time=0.065505
+ProcessID=10118 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0406699
+ProcessID=10 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0524139
+ProcessID=11 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0576801
+ProcessID=12861 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0655114
 ProcessID=12 : Parent_ProcessID=2 : Average_Sleeping_Time=0.000573333
-ProcessID=13339 : Parent_ProcessID=2 : Average_Sleeping_Time=0.113533
-ProcessID=13708 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0494922
+ProcessID=13708 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0492909
 ProcessID=14 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0886714
-ProcessID=15 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0993445
+ProcessID=15 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0990274
 ProcessID=1625 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0628517
-ProcessID=16 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00454668
+ProcessID=16 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00458472
 ProcessID=177 : Parent_ProcessID=2 : Average_Sleeping_Time=0.004505
 ProcessID=178 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00554833
 ProcessID=179 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0097175
-ProcessID=17 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0258155
+ProcessID=17 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0253335
 ProcessID=181 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0094255
-ProcessID=18 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0343146
+ProcessID=18316 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0552064
+ProcessID=18 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0342408
 ProcessID=192 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0389175
-ProcessID=19534 : Parent_ProcessID=2 : Average_Sleeping_Time=0.101636
-ProcessID=20 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00315563
+ProcessID=20 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00314219
+ProcessID=21224 : Parent_ProcessID=2 : Average_Sleeping_Time=0.003249
+ProcessID=21239 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0838103
 ProcessID=214 : Parent_ProcessID=2 : Average_Sleeping_Time=0.01854
-ProcessID=21 : Parent_ProcessID=2 : Average_Sleeping_Time=0.104682
-ProcessID=22597 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0609597
-ProcessID=22 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00424232
-ProcessID=23014 : Parent_ProcessID=2 : Average_Sleeping_Time=0.110477
-ProcessID=23400 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0617053
-ProcessID=23411 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0481745
-ProcessID=23412 : Parent_ProcessID=2 : Average_Sleeping_Time=0.102439
-ProcessID=23427 : Parent_ProcessID=2 : Average_Sleeping_Time=0.070745
-ProcessID=23504 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0334562
-ProcessID=23767 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0386084
-ProcessID=23 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0329095
-ProcessID=24745 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0553171
-ProcessID=24965 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0906402
-ProcessID=24 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0343009
-ProcessID=26074 : Parent_ProcessID=2 : Average_Sleeping_Time=0.12736
-ProcessID=26259 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0667204
-ProcessID=26303 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0586746
-ProcessID=26325 : Parent_ProcessID=2 : Average_Sleeping_Time=0.104151
-ProcessID=26 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0025606
-ProcessID=272 : Parent_ProcessID=2 : Average_Sleeping_Time=0.119231
+ProcessID=21680 : Parent_ProcessID=2 : Average_Sleeping_Time=0.105717
+ProcessID=21750 : Parent_ProcessID=2 : Average_Sleeping_Time=0.026462
+ProcessID=21 : Parent_ProcessID=2 : Average_Sleeping_Time=0.104768
+ProcessID=22 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00430407
+ProcessID=23998 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0400395
+ProcessID=23 : Parent_ProcessID=2 : Average_Sleeping_Time=0.031062
+ProcessID=24 : Parent_ProcessID=2 : Average_Sleeping_Time=0.034142
+ProcessID=26 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00254105
+ProcessID=272 : Parent_ProcessID=2 : Average_Sleeping_Time=0.120508
 ProcessID=273 : Parent_ProcessID=2 : Average_Sleeping_Time=0.004224
-ProcessID=276 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0227168
-ProcessID=27952 : Parent_ProcessID=2 : Average_Sleeping_Time=0.132711
-ProcessID=27988 : Parent_ProcessID=2 : Average_Sleeping_Time=0.012795
-ProcessID=27 : Parent_ProcessID=2 : Average_Sleeping_Time=0.083637
-ProcessID=28027 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0904047
-ProcessID=28185 : Parent_ProcessID=2 : Average_Sleeping_Time=0.014336
-ProcessID=28234 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0420716
-ProcessID=28235 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0448356
-ProcessID=28236 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00651343
-ProcessID=28237 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00993843
-ProcessID=28238 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00794917
-ProcessID=28239 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0163854
-ProcessID=28240 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0081752
-ProcessID=28241 : Parent_ProcessID=2 : Average_Sleeping_Time=0.056215
-ProcessID=28242 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0586121
-ProcessID=28244 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00928014
-ProcessID=28245 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0095946
-ProcessID=28246 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0680505
-ProcessID=28247 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0649906
-ProcessID=28248 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0557684
-ProcessID=28250 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0278963
-ProcessID=28251 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0668395
-ProcessID=28252 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0063956
-ProcessID=28253 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0230374
-ProcessID=28254 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0510157
-ProcessID=28255 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00491838
-ProcessID=28256 : Parent_ProcessID=2 : Average_Sleeping_Time=0.589684
-ProcessID=28262 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0065935
-ProcessID=28263 : Parent_ProcessID=2 : Average_Sleeping_Time=0.11545
-ProcessID=28 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00418024
-ProcessID=296 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0236709
-ProcessID=298 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0252403
-ProcessID=299 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0874873
-ProcessID=29 : Parent_ProcessID=2 : Average_Sleeping_Time=0.028631
+ProcessID=276 : Parent_ProcessID=2 : Average_Sleeping_Time=0.022882
+ProcessID=27 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0842282
+ProcessID=28 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00426817
+ProcessID=296 : Parent_ProcessID=2 : Average_Sleeping_Time=0.023683
+ProcessID=298 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0254369
+ProcessID=299 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0859634
+ProcessID=29 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0296905
 ProcessID=300 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0486735
-ProcessID=302 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0255034
-ProcessID=30 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0381959
-ProcessID=311 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0252448
-ProcessID=315 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0248379
-ProcessID=318 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0298835
-ProcessID=32 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00249042
-ProcessID=334 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0208828
-ProcessID=33 : Parent_ProcessID=2 : Average_Sleeping_Time=0.128649
-ProcessID=34 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00398416
-ProcessID=35 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0269271
-ProcessID=36 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0342415
-ProcessID=371 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0378248
+ProcessID=302 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0254534
+ProcessID=30 : Parent_ProcessID=2 : Average_Sleeping_Time=0.038858
+ProcessID=311 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0254312
+ProcessID=315 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0252103
+ProcessID=318 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0292727
+ProcessID=32 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00246248
+ProcessID=334 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0213116
+ProcessID=33 : Parent_ProcessID=2 : Average_Sleeping_Time=0.129741
+ProcessID=34 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00402976
+ProcessID=35 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0260964
+ProcessID=36 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0337012
+ProcessID=371 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0387911
 ProcessID=385 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0212622
-ProcessID=38 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00463905
-ProcessID=39 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0742043
+ProcessID=38 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00440105
+ProcessID=39 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0751651
 ProcessID=3 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00705233
-ProcessID=40 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00369784
+ProcessID=40 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00373217
 ProcessID=418 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0336624
-ProcessID=41 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0354386
+ProcessID=41 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0335626
 ProcessID=426 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0362119
 ProcessID=427 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00342533
 ProcessID=428 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0348241
 ProcessID=429 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0350299
-ProcessID=42 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0254821
-ProcessID=435 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0598852
-ProcessID=436 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0174094
+ProcessID=42 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0253828
+ProcessID=435 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0608846
+ProcessID=436 : Parent_ProcessID=2 : Average_Sleeping_Time=0.018931
 ProcessID=444 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0041955
-ProcessID=44 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00314121
+ProcessID=4477 : Parent_ProcessID=2 : Average_Sleeping_Time=0.101954
+ProcessID=44 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00303657
 ProcessID=452 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0175656
-ProcessID=456 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0394409
-ProcessID=45 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0867333
-ProcessID=461 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0121934
-ProcessID=46 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00431404
+ProcessID=456 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0396352
+ProcessID=45 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0879465
+ProcessID=461 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0169322
+ProcessID=46 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00437603
 ProcessID=473 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0033045
-ProcessID=47 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0289361
+ProcessID=47 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0283717
 ProcessID=483 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0298443
-ProcessID=486 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0544162
-ProcessID=487 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0288645
-ProcessID=48 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0334509
+ProcessID=486 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0542072
+ProcessID=487 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0311913
+ProcessID=48 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0333566
 ProcessID=4 : Parent_ProcessID=2 : Average_Sleeping_Time=0.001383
-ProcessID=50 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00447615
-ProcessID=51 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0734697
-ProcessID=52 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00413028
-ProcessID=53 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0293882
-ProcessID=54 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0287158
-ProcessID=56 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00173674
-ProcessID=577 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0256775
+ProcessID=50 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00419864
+ProcessID=51 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0740037
+ProcessID=5278 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0955158
+ProcessID=5294 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0208299
+ProcessID=52 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00418969
+ProcessID=53 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0287599
+ProcessID=54 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0283685
+ProcessID=56 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00169695
+ProcessID=577 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0254481
 ProcessID=578 : Parent_ProcessID=2 : Average_Sleeping_Time=0.003417
 ProcessID=579 : Parent_ProcessID=2 : Average_Sleeping_Time=0.003
-ProcessID=57 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0325104
+ProcessID=57 : Parent_ProcessID=2 : Average_Sleeping_Time=0.033793
 ProcessID=580 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0022815
-ProcessID=583 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0349988
-ProcessID=585 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0158719
+ProcessID=583 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0358629
+ProcessID=585 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0171345
 ProcessID=58 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0012885
 ProcessID=594 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0134696
 ProcessID=59 : Parent_ProcessID=2 : Average_Sleeping_Time=0
 ProcessID=601 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0108953
-ProcessID=60 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0457646
+ProcessID=60 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0457596
 ProcessID=625 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0131821
-ProcessID=62 : Parent_ProcessID=2 : Average_Sleeping_Time=0.372707
+ProcessID=62 : Parent_ProcessID=2 : Average_Sleeping_Time=0.366561
+ProcessID=6348 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0829567
+ProcessID=6383 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0753634
 ProcessID=63 : Parent_ProcessID=2 : Average_Sleeping_Time=0
-ProcessID=645 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0317858
+ProcessID=645 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0328791
 ProcessID=64 : Parent_ProcessID=2 : Average_Sleeping_Time=0
-ProcessID=65 : Parent_ProcessID=2 : Average_Sleeping_Time=0.802071
-ProcessID=66 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0134481
-ProcessID=671 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0366796
-ProcessID=67 : Parent_ProcessID=2 : Average_Sleeping_Time=0.141127
+ProcessID=6526 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0712646
+ProcessID=65 : Parent_ProcessID=2 : Average_Sleeping_Time=0.79652
+ProcessID=6684 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0824799
+ProcessID=66 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0136123
+ProcessID=671 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0372097
+ProcessID=6799 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0584135
+ProcessID=67 : Parent_ProcessID=2 : Average_Sleeping_Time=0.140618
+ProcessID=6824 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0562542
+ProcessID=6847 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0540837
+ProcessID=6849 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0727717
+ProcessID=6854 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0397799
 ProcessID=68 : Parent_ProcessID=2 : Average_Sleeping_Time=0
+ProcessID=6949 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0545755
 ProcessID=69 : Parent_ProcessID=2 : Average_Sleeping_Time=0
 ProcessID=6 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00299186
 ProcessID=70 : Parent_ProcessID=2 : Average_Sleeping_Time=0
 ProcessID=711 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0611281
+ProcessID=7210 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0469609
+ProcessID=7333 : Parent_ProcessID=2 : Average_Sleeping_Time=0.112143
 ProcessID=73 : Parent_ProcessID=2 : Average_Sleeping_Time=0.000283
 ProcessID=742 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0279917
-ProcessID=743 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0595336
-ProcessID=744 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0294672
+ProcessID=743 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0630662
+ProcessID=744 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0307371
 ProcessID=74 : Parent_ProcessID=2 : Average_Sleeping_Time=0.000945
 ProcessID=750 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0230295
 ProcessID=752 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0272266
@@ -207,183 +184,183 @@ ProcessID=75 : Parent_ProcessID=2 : Average_Sleeping_Time=0
 ProcessID=76 : Parent_ProcessID=2 : Average_Sleeping_Time=0
 ProcessID=78 : Parent_ProcessID=2 : Average_Sleeping_Time=0
 ProcessID=80 : Parent_ProcessID=2 : Average_Sleeping_Time=0
-ProcessID=86 : Parent_ProcessID=2 : Average_Sleeping_Time=2.22043
-ProcessID=88 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00834625
+ProcessID=86 : Parent_ProcessID=2 : Average_Sleeping_Time=2.21928
+ProcessID=88 : Parent_ProcessID=2 : Average_Sleeping_Time=0.00798632
 ProcessID=8 : Parent_ProcessID=2 : Average_Sleeping_Time=0.001443
-ProcessID=9 : Parent_ProcessID=2 : Average_Sleeping_Time=0.041058
-Average_Sleeping_Children_of_ParentID=2 is 0.0582441
+ProcessID=9590 : Parent_ProcessID=2 : Average_Sleeping_Time=0.0761472
+ProcessID=9 : Parent_ProcessID=2 : Average_Sleeping_Time=0.040874
+Average_Sleeping_Children_of_ParentID=2 is 0.0566666
 
 ProcessID=967 : Parent_ProcessID=931 : Average_Sleeping_Time=0.0380707
 Average_Sleeping_Children_of_ParentID=931 is 0.0380707
 
-ProcessID=23633 : Parent_ProcessID=933 : Average_Sleeping_Time=0.468086
-Average_Sleeping_Children_of_ParentID=933 is 0.468086
+ProcessID=8430 : Parent_ProcessID=933 : Average_Sleeping_Time=0.757623
+Average_Sleeping_Children_of_ParentID=933 is 0.757623
 
-ProcessID=1068 : Parent_ProcessID=1048 : Average_Sleeping_Time=0.116552
-ProcessID=1445 : Parent_ProcessID=1048 : Average_Sleeping_Time=0.233369
-Average_Sleeping_Children_of_ParentID=1048 is 0.17496
+ProcessID=1068 : Parent_ProcessID=1048 : Average_Sleeping_Time=0.113697
+ProcessID=1445 : Parent_ProcessID=1048 : Average_Sleeping_Time=0.229338
+Average_Sleeping_Children_of_ParentID=1048 is 0.171517
 
-ProcessID=1094 : Parent_ProcessID=1068 : Average_Sleeping_Time=0.105159
-Average_Sleeping_Children_of_ParentID=1068 is 0.105159
+ProcessID=1094 : Parent_ProcessID=1068 : Average_Sleeping_Time=0.097655
+Average_Sleeping_Children_of_ParentID=1068 is 0.097655
 
 ProcessID=1083 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.182063
-ProcessID=1096 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.122089
-ProcessID=1197 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.062212
-ProcessID=1204 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0636234
-ProcessID=1208 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.184183
-ProcessID=1236 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0678114
-ProcessID=1244 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0609266
-ProcessID=1308 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.127927
-Average_Sleeping_Children_of_ParentID=1082 is 0.108854
+ProcessID=1096 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.122358
+ProcessID=1197 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0600357
+ProcessID=1204 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0628474
+ProcessID=1208 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.181044
+ProcessID=1236 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0654829
+ProcessID=1244 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.0585399
+ProcessID=1308 : Parent_ProcessID=1082 : Average_Sleeping_Time=0.123213
+Average_Sleeping_Children_of_ParentID=1082 is 0.106948
 
-ProcessID=1098 : Parent_ProcessID=1094 : Average_Sleeping_Time=0.120297
-Average_Sleeping_Children_of_ParentID=1094 is 0.120297
+ProcessID=1098 : Parent_ProcessID=1094 : Average_Sleeping_Time=0.118892
+Average_Sleeping_Children_of_ParentID=1094 is 0.118892
 
-ProcessID=1119 : Parent_ProcessID=1098 : Average_Sleeping_Time=2.45431
-ProcessID=1255 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.338209
-ProcessID=1260 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.121406
-ProcessID=1263 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.44433
-ProcessID=1264 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.284471
-ProcessID=1267 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.289562
-ProcessID=1269 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.119318
-ProcessID=1270 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.434746
-ProcessID=1273 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.246267
-ProcessID=1277 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.111819
-ProcessID=1279 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.234777
-ProcessID=1280 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.15984
-ProcessID=1283 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.11251
-ProcessID=1286 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.10194
-ProcessID=1287 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.115781
-ProcessID=1293 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.121969
-ProcessID=1296 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.188974
-ProcessID=1300 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.559592
-Average_Sleeping_Children_of_ParentID=1098 is 0.357768
+ProcessID=1119 : Parent_ProcessID=1098 : Average_Sleeping_Time=2.56036
+ProcessID=1255 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.31285
+ProcessID=1260 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.114393
+ProcessID=1263 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.431069
+ProcessID=1264 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.307947
+ProcessID=1267 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.269337
+ProcessID=1269 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.111218
+ProcessID=1270 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.414757
+ProcessID=1273 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.23954
+ProcessID=1277 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.105046
+ProcessID=1279 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.231175
+ProcessID=1280 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.150313
+ProcessID=1283 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.105424
+ProcessID=1286 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.0955761
+ProcessID=1287 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.110231
+ProcessID=1293 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.116497
+ProcessID=1296 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.176478
+ProcessID=1300 : Parent_ProcessID=1098 : Average_Sleeping_Time=0.526715
+Average_Sleeping_Children_of_ParentID=1098 is 0.354386
 
-ProcessID=1184 : Parent_ProcessID=1119 : Average_Sleeping_Time=0.0987259
-ProcessID=1228 : Parent_ProcessID=1119 : Average_Sleeping_Time=0.140207
-Average_Sleeping_Children_of_ParentID=1119 is 0.119467
+ProcessID=1184 : Parent_ProcessID=1119 : Average_Sleeping_Time=0.101609
+ProcessID=1228 : Parent_ProcessID=1119 : Average_Sleeping_Time=0.138785
+Average_Sleeping_Children_of_ParentID=1119 is 0.120197
 
-ProcessID=1202 : Parent_ProcessID=1197 : Average_Sleeping_Time=0.0892404
-Average_Sleeping_Children_of_ParentID=1197 is 0.0892404
+ProcessID=1202 : Parent_ProcessID=1197 : Average_Sleeping_Time=0.0867447
+Average_Sleeping_Children_of_ParentID=1197 is 0.0867447
 
-ProcessID=1231 : Parent_ProcessID=1228 : Average_Sleeping_Time=0.142001
-ProcessID=1312 : Parent_ProcessID=1228 : Average_Sleeping_Time=0.179005
-Average_Sleeping_Children_of_ParentID=1228 is 0.160503
+ProcessID=1231 : Parent_ProcessID=1228 : Average_Sleeping_Time=0.128901
+ProcessID=1312 : Parent_ProcessID=1228 : Average_Sleeping_Time=0.170744
+Average_Sleeping_Children_of_ParentID=1228 is 0.149822
 
-ProcessID=1467 : Parent_ProcessID=1445 : Average_Sleeping_Time=0.19797
-Average_Sleeping_Children_of_ParentID=1445 is 0.19797
+ProcessID=1467 : Parent_ProcessID=1445 : Average_Sleeping_Time=0.18379
+Average_Sleeping_Children_of_ParentID=1445 is 0.18379
 
 ProcessID=1450 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.241232
-ProcessID=1477 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.165065
-ProcessID=1560 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0944249
-ProcessID=1567 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0939155
-ProcessID=1592 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.150475
+ProcessID=1477 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.165753
+ProcessID=1560 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0899542
+ProcessID=1567 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.092871
+ProcessID=1592 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.148692
 ProcessID=1597 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.239385
-ProcessID=1635 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.045689
-ProcessID=1645 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.111113
-ProcessID=1650 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.1828
-ProcessID=1654 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.312074
-ProcessID=1662 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.146246
-ProcessID=1669 : Parent_ProcessID=1449 : Average_Sleeping_Time=3.93977
-ProcessID=1678 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.157121
-ProcessID=1683 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.124656
-ProcessID=1687 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.119902
-ProcessID=1691 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0990823
-ProcessID=1695 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0972305
-ProcessID=17196 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.137852
-ProcessID=1829 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.420851
-ProcessID=1833 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.821139
-ProcessID=1867 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.387123
-ProcessID=1902 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.569404
-ProcessID=1914 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.210011
-ProcessID=2186 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0523036
+ProcessID=1635 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0462658
+ProcessID=1645 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.100871
+ProcessID=1650 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.176784
+ProcessID=1654 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.307187
+ProcessID=1662 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.145193
+ProcessID=1669 : Parent_ProcessID=1449 : Average_Sleeping_Time=4.14831
+ProcessID=1678 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.144152
+ProcessID=1683 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.124561
+ProcessID=1687 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.119904
+ProcessID=1691 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.098606
+ProcessID=1695 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.0964196
+ProcessID=17196 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.127193
+ProcessID=1829 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.428531
+ProcessID=1833 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.810477
+ProcessID=1867 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.364923
+ProcessID=1902 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.577844
+ProcessID=1914 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.21127
+ProcessID=2186 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.052854
 ProcessID=2332 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.335484
-ProcessID=29936 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.379894
-Average_Sleeping_Children_of_ParentID=1449 is 0.370547
+ProcessID=7634 : Parent_ProcessID=1449 : Average_Sleeping_Time=0.457302
+Average_Sleeping_Children_of_ParentID=1449 is 0.378923
 
-ProcessID=1469 : Parent_ProcessID=1467 : Average_Sleeping_Time=0.208103
-ProcessID=1480 : Parent_ProcessID=1467 : Average_Sleeping_Time=0.33143
-Average_Sleeping_Children_of_ParentID=1467 is 0.269767
+ProcessID=1469 : Parent_ProcessID=1467 : Average_Sleeping_Time=0.207294
+ProcessID=1480 : Parent_ProcessID=1467 : Average_Sleeping_Time=0.334342
+Average_Sleeping_Children_of_ParentID=1467 is 0.270818
 
-ProcessID=1557 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.0866654
-ProcessID=1585 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.55193
-ProcessID=1700 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.216315
-ProcessID=1701 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.137229
-ProcessID=1703 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.116709
-ProcessID=1704 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.124948
-ProcessID=1705 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.128259
-ProcessID=1707 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.124431
-ProcessID=1714 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.128052
-ProcessID=1716 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.238686
-ProcessID=1724 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.189859
-ProcessID=1728 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.124921
-ProcessID=1732 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.176525
-ProcessID=1736 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.303941
-ProcessID=1739 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.133764
-ProcessID=1742 : Parent_ProcessID=1480 : Average_Sleeping_Time=1.97096
-ProcessID=1743 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.198188
-ProcessID=1747 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.242176
-ProcessID=1753 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.121378
-ProcessID=1802 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.150554
-ProcessID=1810 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.213024
-ProcessID=2049 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.219881
-ProcessID=2749 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.214787
-Average_Sleeping_Children_of_ParentID=1480 is 0.265791
+ProcessID=1557 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.0867562
+ProcessID=1585 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.546667
+ProcessID=1700 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.215287
+ProcessID=1701 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.137807
+ProcessID=1703 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.116299
+ProcessID=1704 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.12533
+ProcessID=1705 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.130123
+ProcessID=1707 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.125685
+ProcessID=1714 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.128894
+ProcessID=1716 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.23741
+ProcessID=1724 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.188974
+ProcessID=1728 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.125629
+ProcessID=1732 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.175822
+ProcessID=1736 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.323178
+ProcessID=1739 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.133084
+ProcessID=1742 : Parent_ProcessID=1480 : Average_Sleeping_Time=2.04274
+ProcessID=1743 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.196768
+ProcessID=1747 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.241913
+ProcessID=1753 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.121542
+ProcessID=1802 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.148918
+ProcessID=1810 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.208294
+ProcessID=2049 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.218779
+ProcessID=2749 : Parent_ProcessID=1480 : Average_Sleeping_Time=0.206432
+Average_Sleeping_Children_of_ParentID=1480 is 0.268797
 
-ProcessID=1565 : Parent_ProcessID=1560 : Average_Sleeping_Time=0.181247
-Average_Sleeping_Children_of_ParentID=1560 is 0.181247
+ProcessID=1565 : Parent_ProcessID=1560 : Average_Sleeping_Time=0.181774
+Average_Sleeping_Children_of_ParentID=1560 is 0.181774
 
-ProcessID=1627 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.22057
-ProcessID=18741 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.580298
-ProcessID=28284 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.533937
-ProcessID=2832 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.223419
-Average_Sleeping_Children_of_ParentID=1585 is 0.389558
+ProcessID=1627 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.223765
+ProcessID=18741 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.545453
+ProcessID=28284 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.466686
+ProcessID=2832 : Parent_ProcessID=1585 : Average_Sleeping_Time=0.223825
+Average_Sleeping_Children_of_ParentID=1585 is 0.36493
 
-ProcessID=1823 : Parent_ProcessID=1592 : Average_Sleeping_Time=0.109982
-ProcessID=3444 : Parent_ProcessID=1592 : Average_Sleeping_Time=0.167694
-Average_Sleeping_Children_of_ParentID=1592 is 0.138838
+ProcessID=1823 : Parent_ProcessID=1592 : Average_Sleeping_Time=0.109346
+ProcessID=3444 : Parent_ProcessID=1592 : Average_Sleeping_Time=0.159701
+Average_Sleeping_Children_of_ParentID=1592 is 0.134523
 
-ProcessID=1631 : Parent_ProcessID=1627 : Average_Sleeping_Time=0.154675
-ProcessID=1843 : Parent_ProcessID=1627 : Average_Sleeping_Time=0.194475
-Average_Sleeping_Children_of_ParentID=1627 is 0.174575
+ProcessID=1631 : Parent_ProcessID=1627 : Average_Sleeping_Time=0.141895
+ProcessID=1843 : Parent_ProcessID=1627 : Average_Sleeping_Time=0.192534
+Average_Sleeping_Children_of_ParentID=1627 is 0.167214
 
-ProcessID=1857 : Parent_ProcessID=1833 : Average_Sleeping_Time=0.208966
-Average_Sleeping_Children_of_ParentID=1833 is 0.208966
+ProcessID=1857 : Parent_ProcessID=1833 : Average_Sleeping_Time=0.200168
+Average_Sleeping_Children_of_ParentID=1833 is 0.200168
 
-ProcessID=1877 : Parent_ProcessID=1867 : Average_Sleeping_Time=0.16574
-Average_Sleeping_Children_of_ParentID=1867 is 0.16574
+ProcessID=1877 : Parent_ProcessID=1867 : Average_Sleeping_Time=0.163346
+Average_Sleeping_Children_of_ParentID=1867 is 0.163346
+
+ProcessID=7644 : Parent_ProcessID=7634 : Average_Sleeping_Time=0.942687
+Average_Sleeping_Children_of_ParentID=7634 is 0.942687
+
+ProcessID=28728 : Parent_ProcessID=7644 : Average_Sleeping_Time=0.136762
+Average_Sleeping_Children_of_ParentID=7644 is 0.136762
 
 ProcessID=18798 : Parent_ProcessID=18741 : Average_Sleeping_Time=3.30042
 Average_Sleeping_Children_of_ParentID=18741 is 3.30042
 
-ProcessID=18851 : Parent_ProcessID=18798 : Average_Sleeping_Time=0.10029
-ProcessID=22297 : Parent_ProcessID=18798 : Average_Sleeping_Time=5.22535
-Average_Sleeping_Children_of_ParentID=18798 is 2.66282
+ProcessID=18851 : Parent_ProcessID=18798 : Average_Sleeping_Time=0.100671
+ProcessID=9022 : Parent_ProcessID=18798 : Average_Sleeping_Time=7.71146
+ProcessID=9029 : Parent_ProcessID=18798 : Average_Sleeping_Time=0.978637
+Average_Sleeping_Children_of_ParentID=18798 is 2.93026
 
-ProcessID=28467 : Parent_ProcessID=28284 : Average_Sleeping_Time=1.87522
-ProcessID=28490 : Parent_ProcessID=28284 : Average_Sleeping_Time=0.381989
+ProcessID=28467 : Parent_ProcessID=28284 : Average_Sleeping_Time=1.82507
+ProcessID=28490 : Parent_ProcessID=28284 : Average_Sleeping_Time=0.39824
 ProcessID=28497 : Parent_ProcessID=28284 : Average_Sleeping_Time=1.48243
-ProcessID=28751 : Parent_ProcessID=28284 : Average_Sleeping_Time=0.76583
-Average_Sleeping_Children_of_ParentID=28284 is 1.12637
+Average_Sleeping_Children_of_ParentID=28284 is 1.23525
 
-ProcessID=28469 : Parent_ProcessID=28467 : Average_Sleeping_Time=0.432567
-Average_Sleeping_Children_of_ParentID=28467 is 0.432567
+ProcessID=28469 : Parent_ProcessID=28467 : Average_Sleeping_Time=0.421472
+Average_Sleeping_Children_of_ParentID=28467 is 0.421472
 
-ProcessID=28585 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.21609
-ProcessID=28648 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.84731
-ProcessID=28739 : Parent_ProcessID=28469 : Average_Sleeping_Time=0.920998
-ProcessID=28857 : Parent_ProcessID=28469 : Average_Sleeping_Time=0.987994
-ProcessID=28875 : Parent_ProcessID=28469 : Average_Sleeping_Time=3.88177
-ProcessID=28887 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.6958
-ProcessID=28899 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.44377
-ProcessID=28912 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.43655
-ProcessID=28924 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.18873
-ProcessID=28993 : Parent_ProcessID=28469 : Average_Sleeping_Time=2.74774
-ProcessID=29027 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.04352
-Average_Sleeping_Children_of_ParentID=28469 is 1.67366
-
-ProcessID=29946 : Parent_ProcessID=29936 : Average_Sleeping_Time=0.747171
-Average_Sleeping_Children_of_ParentID=29936 is 0.747171
-
-ProcessID=32098 : Parent_ProcessID=29946 : Average_Sleeping_Time=0.124357
-Average_Sleeping_Children_of_ParentID=29946 is 0.124357
+ProcessID=21240 : Parent_ProcessID=28469 : Average_Sleeping_Time=0.637387
+ProcessID=21265 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.32015
+ProcessID=28585 : Parent_ProcessID=28469 : Average_Sleeping_Time=0.765495
+ProcessID=28739 : Parent_ProcessID=28469 : Average_Sleeping_Time=0.781994
+ProcessID=28875 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.77158
+ProcessID=7928 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.93754
+ProcessID=8314 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.28955
+ProcessID=8570 : Parent_ProcessID=28469 : Average_Sleeping_Time=2.58169
+ProcessID=8886 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.17414
+ProcessID=8943 : Parent_ProcessID=28469 : Average_Sleeping_Time=1.10328
+Average_Sleeping_Children_of_ParentID=28469 is 1.33628

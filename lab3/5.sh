@@ -9,7 +9,7 @@ do
 		sum_exec_runtime=$(cat 2>/dev/null "/proc/${pid}/sched" | grep -hE "^se.sum_exec_runtime" | tr -s " " | cut -d " " -f 3)
 		switches=$(cat 2>/dev/null "/proc/${pid}/sched" | grep -hE "^nr_switches" | tr -s " " | cut -d " " -f 3)
 		avg_atom=$((-1))
-		if [ "$avg_atom" -ne 0 ]
+		if [ "$switches" -ne 0 ]
 		then
 			avg_atom=$(awk 'BEGIN{print ('"$sum_exec_runtime"'/'"$switches"')}')
 		fi
