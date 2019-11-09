@@ -6,6 +6,7 @@ info <PID>                 = information about process with PID = <PID>
 find <QUERY>               = list of processes which started with <QUERY> command
 send <SIGNAL> <PID>        = send signal <SIGNAL> to a process <PID>
 stream                     = turn on tracking mode, Ctrl+C to turn off
+clone                      = clone a process in background mode
 help                       = print help
 exit                       = exit from manager"
 
@@ -15,11 +16,11 @@ function _get_comm {
 	_cmdline=""
 	if [ -e "/proc/$1/cmdline" ];
 	then
-		_cmdline="$(tr -d '\0' </proc/$1/cmdline)"
+		_cmdline="$(tr '\0' ' ' </proc/$1/cmdline)"
 	fi
 	if [ -e "/proc/$1/comm" ];
 	then
-		_comm="$(tr -d '\0' </proc/$1/comm)"
+		_comm="$(tr '\0' ' ' </proc/$1/comm)"
 	fi
 	if [ -n "$_comm" ]
 	then
@@ -49,7 +50,7 @@ function _list {
 }
 
 function _send {
-	kill $1 $2
+	kill -$1 $2
 }
 
 function _find {
@@ -74,7 +75,7 @@ function _info {
 }
 
 function _stream {
-	trap 'echo ""; return' SIGINT
+	trap 'echo ""; trap '-' SIGINT; return' SIGINT
 	pids=$(ls /proc | grep "^[0-9]*$" | sort -n)
 	while true
 	do
@@ -98,6 +99,10 @@ function _stream {
 	done 
 }
 
+function _clone {
+	eval "$(_get_comm $1) &"
+}
+
 _help
 
 while true
@@ -112,6 +117,7 @@ do
 		'find' ) _find $arg1 ;;
 		'send' ) _send $arg1 $arg2 ;;
 		'stream' ) _stream ;;
+		'clone' ) _clone $arg1 ;;
 		'help' ) _help ;;
 		'exit' ) exit 0 ;;
 	esac
