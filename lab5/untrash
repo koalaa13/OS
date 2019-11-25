@@ -1,0 +1,37 @@
+#!/bin/bash
+
+if ! [ -f ~/.trash.log ]
+then
+	echo "You haven't deleted any files yet."
+	exit 0
+fi
+file_name=$1
+regexp=".*/$file_name"
+array=()
+while read line
+do
+	array+=("$line")
+done < ~/.trash.log
+
+for i in ${!array[@]};
+do
+	line=${array[$i]}
+	cnt="$(echo "$line" | wc -w)"
+	link_name="$(echo "$line" | cut -d ' ' -f $cnt)"
+	cnt=$((cnt-1))	
+	full_path="$(echo "$line" | cut -d ' ' -f -$cnt)"
+	if ! [[ $full_path =~ $regexp ]] || ! [[ -f ~/.trash/$link_name ]] 
+	then
+		continue
+	fi
+	echo "Do you want to restore file: ${full_path}? Y/N"
+	answer="N"
+	read answer
+	if [ "$answer" = "Y" ]
+	then
+		ln ~/.trash/$link_name $full_path
+		rm ~/.trash/$link_name	
+	fi
+done
+
+
