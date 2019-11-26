@@ -1,0 +1,38 @@
+#!/bin/bash
+regexp="$HOME/Backup-[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]"
+newest_backup=-1
+newest_backup_folder=-1
+for file in ~/*
+do
+	if [ -d $file ] && [[ $file =~ $regexp ]]
+	then
+		cur_backup_year="$(echo ${file##*/} | cut -d '-' -f 2)"
+		cur_backup_month="$(echo ${file##*/} | cut -d '-' -f 3)"
+		cur_backup_day="$(echo ${file##*/} | cut -d '-' -f 4)"
+		cur_backup_date="$(date -d "$cur_backup_year-$cur_backup_month-$cur_backup_day" +%s)"
+		if [ $newest_backup -lt $cur_backup_date ]
+		then
+			newest_backup=$cur_backup_date
+			newest_backup_folder=$file
+		fi
+	fi
+done
+if [ $newest_backup -eq -1 ]
+then
+	echo "you haven't created backups yet"
+	exit 0
+else
+	regexp=".+\.[0-9][0-9][0-9][0-9]\.[0-9][0-9]\.[0-9][0-9]"
+	if ! [ -d ~/restore ]
+	then
+		mkdir ~/restore
+	fi
+	for file in $newest_backup_folder/*
+	do
+		if ! [[ $file =~ $regexp ]]
+		then
+			cp $file ~/restore
+		fi
+	done
+fi
+
