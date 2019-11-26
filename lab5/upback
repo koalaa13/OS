@@ -1,5 +1,5 @@
 #!/bin/bash
-regexp="$HOME/Backup-[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]"
+regexp="$HOME/Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}$"
 newest_backup=-1
 newest_backup_folder=-1
 for file in ~/*
@@ -22,16 +22,50 @@ then
 	echo "you haven't created backups yet"
 	exit 0
 else
-	regexp=".+\.[0-9][0-9][0-9][0-9]\.[0-9][0-9]\.[0-9][0-9]"
+	regexp=".+\.[0-9]{4}\.[0-9]{2}\.[0-9]{2}$"
 	if ! [ -d ~/restore ]
 	then
 		mkdir ~/restore
 	fi
+	array=()
 	for file in $newest_backup_folder/*
 	do
-		if ! [[ $file =~ $regexp ]]
+		array+=("$file")
+	done
+	i=0
+	while true
+	do
+		file=${array[$i]}
+		regexp="${file##*/}.*"
+		j=$i
+		cur_versions=()
+		while true
+		do
+			cur_file=${array[$j]}
+			file_name=${cur_file##*/}
+			if ! [[ $file_name =~ $regexp ]]
+			then
+				break
+			fi 
+			cur_versions+=("$cur_file")
+			j=$((j+1))
+			if [ $j -eq ${#array[*]} ]
+			then
+				break
+			fi
+		done
+		echo "which version do you want to restore?"
+		for k in ${!cur_versions[@]};
+		do
+			echo ${cur_versions[$k]}
+		done
+		version=0
+		read version
+		cp $version ~/restore
+		i=$j
+		if [ $i -eq ${#array[*]} ]
 		then
-			cp $file ~/restore
+			break
 		fi
 	done
 fi

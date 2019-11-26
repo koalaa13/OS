@@ -6,7 +6,7 @@ cur_month="$(date +%m)"
 cur_day="$(date +%d)"
 newest_backup=-1
 newest_backup_folder=-1
-regexp="$HOME/Backup-[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]"
+regexp="$HOME/Backup-[0-9]{4}-[0-9]{2}-[0-9]{2}$"
 for file in ~/*
 do	
 	if [ -d $file ] && [[ $file =~ $regexp ]]
@@ -44,7 +44,7 @@ else
 				# do nothing
 			else
 				echo "$file was changed, old version was renamed, new one was added to $newest_backup_folder" >> ~/backup-report
-				mv $file_in_backup $file_in_backup.$cur_year.$cur_month.$cur_day
+				mv $file_in_backup $file_in_backup-$cur_year-$cur_month-$cur_day
 				cp $file $newest_backup_folder 
 			fi
 		else
