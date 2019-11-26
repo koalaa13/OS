@@ -1,0 +1,55 @@
+#!/bin/bash
+week=604800
+cur_date="$(date +%s)"
+cur_year="$(date +%Y)"
+cur_month="$(date +%m)"
+cur_day="$(date +%d)"
+newest_backup=-1
+newest_backup_folder=-1
+regexp="$HOME/Backup-[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9]"
+for file in ~/*
+do	
+	if [ -d $file ] && [[ $file =~ $regexp ]]
+	then
+		cur_backup_year="$(echo $file | cut -d '-' -f 2)"
+		cur_backup_month="$(echo $file | cut -d '-' -f 3)"
+		cur_backup_day="$(echo $file | cut -d '-' -f 4)"
+		cur_backup_date_in_secs="$(date -d "$cur_backup_year-$cur_backup_month-$cur_backup_day" +%s)"
+		if [ $newest_backup -lt $cur_backup_date_in_secs ]
+		then
+			newest_backup=$cur_backup_date_in_secs
+			newest_backup_folder=$file
+		fi
+	fi
+done
+if [ $newest_backup -lt $((cur_date-week)) ]
+then
+	backup_folder_name="Backup-$cur_year-$cur_month-$cur_day"
+	mkdir ~/$backup_folder_name
+	echo "$(date) $backup_folder_name created" >> ~/backup-report
+	for file in ~/source/*
+	do
+		cp $file ~/$backup_folder_name
+		echo "$file was saved to $backup_folder_name" >> ~/backup-report
+	done
+else
+	for file in ~/source/*
+	do
+		file_in_backup="$newest_backup_folder/${file##*/}"
+		if [ -f $file_in_backup ]
+		then
+			if [ "$(wc -c $file_in_backup | cut -d ' ' -f 1)" -eq "$(wc -c $file | cut -d ' ' -f 1)" ]
+			then
+				echo "$file is already in $newest_backup_folder" >> ~/backup-report
+				# do nothing
+			else
+				echo "$file was changed, old version was renamed, new one was added to $newest_backup_folder" >> ~/backup-report
+				mv $file_in_backup $file_in_backup.$cur_year.$cur_month.$cur_day
+				cp $file $newest_backup_folder 
+			fi
+		else
+			echo "new $file was saved to $newest_backup_folder" >> ~/backup-report
+			cp $file $newest_backup_folder
+		fi
+	done
+fi
