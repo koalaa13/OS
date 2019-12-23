@@ -1,3 +1,4 @@
+@echo off
 net start > services.txt
 net stop dnscache
 timeout 5

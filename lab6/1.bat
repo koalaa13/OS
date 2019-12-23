@@ -1,3 +1,4 @@
+@echo off
 mkdir C:\LAB6
 ver > C:\LAB6\ver.txt
 wmic os get FreePhysicalMemory, TotalVisibleMemorySize > C:\LAB6\memory.txt
